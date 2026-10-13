@@ -12,8 +12,7 @@ tugas css awal
 ![Screenshot 1](lab4Web/ss/2.png)
 ![Screenshot 1](lab4Web/ss/3.png)
 ![Screenshot 1](lab4Web/ss/4.png)
-![Screenshot 1](lab4Web/ss/5.png)
-![Screenshot 1](lab4Web/ss/6.png)
+
 
 
 1. Membuat Struktur HTML
@@ -22,7 +21,8 @@ Pada tahap ini, dibuat dokumen HTML dengan nama home.html sebagai halaman utama 
 
 Elemen tersebut digunakan untuk membagi halaman menjadi beberapa bagian agar struktur website lebih teratur dan mudah dikelola.
 
-
+![Screenshot 1](lab4Web/ss/5.png)
+![Screenshot 1](lab4Web/ss/6.png)
 
 
 
@@ -34,7 +34,8 @@ Bagian header digunakan untuk menampilkan judul website, yaitu "Layout Sederhana
 CSS digunakan untuk mengatur warna latar navigasi, warna teks, jarak antar menu, dan efek ketika menu disorot.
 
 Screenshot:
-
+![Screenshot 1](lab4Web/ss/7.png)
+![Screenshot 1](lab4Web/ss/8.png)
 
 
 
@@ -47,18 +48,14 @@ CSS digunakan untuk memberikan warna latar abu-abu, mengatur jarak dalam elemen,
 Screenshot:
 
 
-
+![Screenshot 1](lab4Web/ss/9.png)
+![Screenshot 1](lab4Web/ss/10.png)
 
 4. Mengatur Main Content dan Sidebar
 
 Pada tahap ini, halaman dibagi menjadi dua kolom, yaitu main content dan sidebar. Main content digunakan untuk menampilkan isi utama website, sedangkan sidebar digunakan untuk menampilkan informasi tambahan.
 
 Properti CSS float: left digunakan untuk menempatkan kedua bagian secara berdampingan. Properti width dan padding digunakan untuk mengatur lebar serta jarak dalam setiap bagian.
-
-Screenshot:
-
-
-
 
 5. Membuat Sidebar Widget
 
@@ -67,9 +64,9 @@ Sidebar dilengkapi dengan dua widget, yaitu Widget Header dan Widget Text. Widge
 CSS digunakan untuk mengatur garis pembatas, warna judul widget, jarak teks, serta efek hover pada tautan.
 
 Screenshot:
-
-
-
+![Screenshot 1](lab4Web/ss/11.png)
+![Screenshot 1](lab4Web/ss/12.png)
+![Screenshot 1](lab4Web/ss/13.png)
 
 6. Membuat Artikel dan Gambar
 
@@ -81,7 +78,7 @@ Elemen <hr class="divider"> digunakan sebagai garis pemisah antarartikel.
 
 Screenshot:
 
-
+![Screenshot 1](lab4Web/ss/14.png)
 
 
 7. Membuat Tiga Box Konten
@@ -91,6 +88,8 @@ Tiga box konten dibuat menggunakan elemen <div class="box">. Setiap box berisi g
 CSS digunakan untuk mengatur lebar box, posisi konten, perataan teks, dan bentuk gambar menggunakan border-radius: 50%.
 
 Screenshot:
+![Screenshot 1](lab4Web/ss/15.png)
+![Screenshot 1](lab4Web/ss/16.png)
 
 
 
@@ -102,6 +101,8 @@ Halaman about.html dibuat untuk menampilkan informasi mengenai profil, deskripsi
 Navigasi juga disesuaikan dengan menandai menu About sebagai halaman aktif.
 
 Screenshot:
+![Screenshot 1](lab4Web/ss/17.png)
+![Screenshot 1](lab4Web/ss/18.png)
 
 
 
@@ -115,6 +116,8 @@ Elemen <form>, <input>, <textarea>, <label>, dan <button> digunakan untuk memban
 Formulir ini masih berupa tampilan antarmuka dan belum terhubung ke database atau layanan pengiriman pesan.
 
 Screenshot:
+![Screenshot 1](lab4Web/ss/19.png)
+![Screenshot 1](lab4Web/ss/20.png)
 
 
 
