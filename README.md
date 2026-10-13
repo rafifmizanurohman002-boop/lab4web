@@ -8,8 +8,13 @@ Program Studi: Teknik Informatika
 Mata Kuliah: Pemrograman Web
 
 tugas css awal
-Lab4Web/ss/1.png
-Lab4Web/ss/1.png
+![Screenshot 1](ss/1.png)
+![Screenshot 2](ss/2.png)
+![Screenshot 1](ss/3.png)
+![Screenshot 2](ss/4.png)
+![Screenshot 1](ss/5.png)
+![Screenshot 2](ss/6.png)
+
 
 1. Membuat Struktur HTML
 
