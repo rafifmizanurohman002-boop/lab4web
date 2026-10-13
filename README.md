@@ -7,6 +7,10 @@ Kelas: 1252A
 Program Studi: Teknik Informatika
 Mata Kuliah: Pemrograman Web
 
+tugas css awal
+Lab4Web/ss/1.png
+Lab4Web/ss/1.png
+
 1. Membuat Struktur HTML
 
 Pada tahap ini, dibuat dokumen HTML dengan nama home.html sebagai halaman utama website. Struktur HTML terdiri dari header, nav, section, aside, dan footer.
